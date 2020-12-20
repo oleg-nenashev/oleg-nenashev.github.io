@@ -11,12 +11,11 @@ I am passionate about open-source and open-source communities.
 My main open-source project is [Jenkins](https://jenkins.io).
 I started using Hudson in 2008 and became an active contributor in 2012.
 In the project I maintain Jenkins core, Remoting, WinSW and a number of plugins.
-I also organize events like [Jenkins meetups](https:/jenkins.io/projects/jam/)
-and [GSoC](https:/jenkins.io/projects/gsoc) in the community.
+I also organize events like [Jenkins meetups](https://jenkins.io/projects/jam/)
+and [GSoC](https://jenkins.io/projects/gsoc) in the community.
 
 Nowadays I work for [CloudBees](https://www.cloudbees.com/) on making Jenkins cloud-native.
-Before that I was e
-working at companies like [Intel](https://www.intel.com/content/www/us/en/research/overview.html) 
+Before that I was working at companies like [Intel](https://www.intel.com/content/www/us/en/research/overview.html) 
 and [Synopsys](https://www.synopsys.com/) on 
 embedded processor cores and test automation for them. 
 There is probably some my VHDL code in devices you use every day.
