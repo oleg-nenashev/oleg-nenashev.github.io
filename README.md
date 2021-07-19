@@ -42,3 +42,4 @@ I also have a PhD in hardware design.
 I am a co-maintainer of [Windows Service Wrapper (WinSW)](https://github.com/winsw/winsw), not so active these days 😢
 In June 2021 I've also started the [FaaScinator project](https://github.com/oleg-nenashev/FaaScinator) - 
 a tool that converts Java CLI apps to FaaS containers and OpenFaaS templates, powered by Quarkus.
+
