@@ -1,16 +1,44 @@
-Just a personal site
----
+**Hello, world!** 👋
+I am an open source contributor, advocate, and community builder.
+Principal Engineer at [CloudBees](http://cloudbees.com/),
+community team.
+Alumni of SPbSPU, Synopsys, Sitronics, and Intel Labs.
+**TL;DR:** Hardware engineer turned CI/CD systems admin turned SWE turned open source community leader.
 
-Based on [Indigo Minimalist Jekyll Template](http://sergiokopplin.github.io/indigo/).
+**Quick links:**
+[Twitter](https://twitter.com/oleg_nenashev) |
+[LinkedIn](https://www.linkedin.com/in/onenashev/) |
+[Public Speaking](./speaking) |
+[Education](./education) |
+[Want to hire me?](./job) |
+[More links](https://linktr.ee/onenashev)
 
-## Setup
+## My communities and projects
 
-If you want to test locally on your machine, do the following steps also:
+**Jenkins** is the first open source community I joined.
+No regrets, it has been a great experience!
+In [Jenkins](http://jenkins.io/) I am a community builder, core maintainer, board member, event officer, and holder of many roles. 
+I am not a mother of dragons, but I am definitely a father of bugs 😊
+My goal is to make the Jenkins community the best place to participate,
+and to ensure long term evolution of the project and its community.
+Always [looking for contributors](https://www.jenkins.io/participate), code or not!
 
-1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
-5. Open it in your browser: `http://localhost:4000`
-6. Test your app with `bundle exec htmlproofer ./_site`
-7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
+**Continuous Delivery Foundation**. 
+I have been a community ambassador at the [CDF](https://cd.foundation/) since its inception.
+In 2021 I was also elected to join the Technical Oversight Committee.
+There I facilitate technical programs among member projects (including Jenkins or Tekton),
+and joint projects with the CDF end users and members.
+[Full Statement](https://www.linkedin.com/feed/update/urn:li:activity:6804399697592123392/).
+
+**Open Hardware**.
+I am a big open hardware enthusiast,
+with some experience in RISC-V and OpenRISC ecosystems.
+I believe it will eat the world too 🚀
+I am a member of the [Free and Open Source Silicon (FOSSi) Foundation](https://www.fossi-foundation.org/)
+and a contributor to the [LibreCores](https://www.librecores.org/) project.
+I also have a PhD in hardware design.
+
+**Pet Projects**.
+I am a co-maintainer of [Windows Service Wrapper (WinSW)](https://github.com/winsw/winsw), not so active these days 😢
+In June 2021 I've also started the [FaaScinator project](https://github.com/oleg-nenashev/FaaScinator) - 
+a tool that converts Java CLI apps to FaaS containers and OpenFaaS templates, powered by Quarkus.
