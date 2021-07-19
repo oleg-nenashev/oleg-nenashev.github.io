@@ -3,9 +3,9 @@ layout: default
 ---
 {% include header.html %}
 
-{% if page.hideTitle %}
-{% else %}
+{% if page.showTitle %}
 <h1 class="title">{{ page.title }}</h1>
+{% else %}
 {% endif %}
 
 {{content}}
